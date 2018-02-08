@@ -8,10 +8,10 @@
 
 require_once "database.php";
 
- $sqlhost="localhost";
- $sqluser="root";
- $sqlpass="password";
- $sqldb="opskin";
+ $sqlhost="HOST_NAME";
+ $sqluser="DB_USER";
+ $sqlpass="DB_PASS";
+ $sqldb="DATABASE";
  $sqltype="mysql";
 
 
